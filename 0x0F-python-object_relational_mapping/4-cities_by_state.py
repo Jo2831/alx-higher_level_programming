@@ -4,9 +4,6 @@
 File: 4-cities_by_state.py
 Desc: This module contains a python script that lists all
 cities from the database hbtn_0e_4_usa.
-
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Oct 7 2022
 """
 
 from sys import argv
