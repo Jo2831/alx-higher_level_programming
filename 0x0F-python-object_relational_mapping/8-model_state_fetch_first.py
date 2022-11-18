@@ -3,10 +3,7 @@
 """
 File: 8-model_state_fetch_all.sql
 Desc: This module contains a python script that prints the
-first State object from the database hbtn_0e_6_usa
-
-Author: Gizachew Bayness (Elec Crazy).
-Date Created: Oct 7 2022
+first State object from the database hbtn_0e_6_usa()
 """
 
 from model_state import Base, State

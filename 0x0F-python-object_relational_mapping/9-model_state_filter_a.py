@@ -4,9 +4,6 @@
 File: 9-model_state_filter_a.py
 Desc: This module contains a python script that lists all
 State objects that contain the letter a from the database hbtn_0e_6_usa
-
-Author: Gizachew Bayness (Elec Crazy).
-Date Created: Oct 7 2022
 """
 
 from model_state import Base, State
