@@ -5,9 +5,6 @@ File: 5-filter_cities.py
 Desc: This module contains a python script that takes in the
 name of a state as an argument and lists all cities of that
 state, using the database hbtn_0e_4_usa
-
-Author: Gizachew Bayness (Elec Crazy)
-Date Created: Oct 7 2022
 """
 
 from sys import argv
