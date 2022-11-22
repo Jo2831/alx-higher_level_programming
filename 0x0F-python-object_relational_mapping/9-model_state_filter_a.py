@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 
 """
-File: 9-model_state_filter_a.py
 Desc: This module contains a python script that lists all
 State objects that contain the letter a from the database hbtn_0e_6_usa
 """
